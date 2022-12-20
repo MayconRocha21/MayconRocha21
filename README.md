@@ -1,6 +1,6 @@
-### Olá! Me chamo Maycon Rocha, sou estudante de desenvolvimento web e estou me aprofundando na formação Front-end. 
+### Olá! Me chamo Maycon Rocha, sou estudante de desenvolvimento web e estou me aprofundando na formação Full Stack. 
 
-## Tecnologias que estou estudando:
+## Tecnologias que estou estudando no momento:
 <br>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
