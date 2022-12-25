@@ -16,9 +16,7 @@
 <a href="https://www.instagram.com/maycongr/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-MayconRocha-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="malito:mgr8272@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-MayconRocha-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
+
 
  
  
