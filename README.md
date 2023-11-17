@@ -7,6 +7,9 @@
 - ⚡ Apaixonado por Corrida de Rua e Tecnologia
 - 🧠 Estudante FullStack com o Sujeito Programador e Alura
 - 🏦 Atualmente trabalho como Analista de Compras.
+- 👨🏾‍💻 Estou sempre em busca de desafios e oportunidades para aprender e crescer. <br>
+     Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo, <br>
+     gosto de contruir Networking e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 ##
 
