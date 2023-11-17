@@ -1,25 +1,81 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-# Olá! 👋
-
-<p align="left"> 
-  Meu nome é Maycon Rocha, sou estudante de Desenvolvimento Web.
-</p>
-
-## 🛠 Tecnologias/Ferramentas que estou aprendendo
-
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
- 
- 
 
 
+## Hello, Devs!! 👋
+### O meu nome é Maycon, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
+- 🔰  Sou de Anápolis/Go, Brasil
+- ⚡ Apaixonado por Corrida de Rua e Tecnologia
+- 🧠 Estudante FullStack com o Sujeito Programador e Alura
+- 🏦 Atualmente trabalho como Analista de Compras.
 
-##  📧 Segue meus links para contato ⤵️
+##
 
+#### Estou aprendendo sobre:
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a href="https://bootstrap-lang.com">
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a href="https://pt-br.react.dev">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+<a href="https://npmjs.com">
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+</a>
+<a href="https://nodejs.org">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+</div>
 
+##
+
+#### Ferramentas que uso:
+<div>
+<a href="https://code.visualstudio.com" >
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+  <a href="https://git-scm.com" >
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
+<a href="https://github.com/pt" >
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://vercel.com" >
+  <img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+</div>
+
+##
+
+#### Como entrar em contato comigo:
+
+<div>
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgr8272@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-rocha-7b8759164/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maycongr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MayconRocha1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562982276751&text=ol%C3%A1)
+
+</div>
+
+##
+
+#### Estatísticas:
+<div>
+<a href="https://github.com/MayconRocha21">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/?username=MayconRocha21&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="113em" src="http://github-readme-streak-stats.herokuapp.com/?user=MayconRocha21&amp;theme=radical">
+</a>
+</div>
+
+
+
