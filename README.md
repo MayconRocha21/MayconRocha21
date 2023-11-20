@@ -3,13 +3,13 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Maycon, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Anápolis/Go, Brasil
-- ⚡ Apaixonado por Corrida de Rua e Tecnologia
-- 🧠 Estudante FullStack com o Sujeito Programador e Alura
+- 🔰 Sou de Anápolis/Go, Brasil.
+- ⚡ Apaixonado por Tecnologia e Corrida de Rua.
+- 🧠 Sou estudante FullStack JavaScript com o Sujeito Programador e Alura.
 - 🏦 Atualmente trabalho como Analista de Compras.
-- 👨🏾‍💻 Estou sempre em busca de desafios e oportunidades para aprender e crescer. <br>
-     Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo, <br>
-     gosto de contruir Networking e explorar maneiras de tornar o mundo digital um lugar melhor.
+- 👨🏾‍💻 Estou sempre em busca de desafios e oportunidades para aprender e crescer profissionalmente. <br>
+     Se você estiver interessado em colaborar ou compartilhar idéias, não hesite em entrar em contato comigo, <br>
+     gosto de construir Networking e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 ##
 
@@ -65,7 +65,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgr8272@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-rocha-7b8759164/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maycongr)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MayconRocha1)
 
 </div>
 
