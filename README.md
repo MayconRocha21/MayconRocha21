@@ -5,7 +5,7 @@
 
 - 🔰 Sou de Anápolis/Go, Brasil.
 - ⚡ Apaixonado por Tecnologia e Corrida de Rua.
-- 🧠 Sou estudante FullStack JavaScript com o Sujeito Programador e Alura.
+- 🧠 Sou estudante FullStack na plataforma da Udemy, Alura e Youtube.
 - 🏦 Atualmente trabalho como Analista de Compras.
 - 👨🏾‍💻 Estou sempre em busca de desafios e oportunidades para aprender e crescer profissionalmente. <br>
      Se você estiver interessado em colaborar ou compartilhar idéias, não hesite em entrar em contato comigo, <br>
@@ -36,20 +36,17 @@
 <a href="https://nodejs.org">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
-</div>
-
-##
-
-#### Ferramentas que uso:
-<div>
-<a href="https://code.visualstudio.com" >
-  <img src="https://skillicons.dev/icons?i=vscode"/>
+<a href="https://mysql.com" >
+  <img src="https://skillicons.dev/icons?i=mysql"/>
 </a>
-  <a href="https://git-scm.com" >
+<a href="https://git-scm.com" >
   <img src="https://skillicons.dev/icons?i=git"/>
 </a>
 <a href="https://github.com/pt" >
   <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://code.visualstudio.com" >
+  <img src="https://skillicons.dev/icons?i=vscode"/>
 </a>
 <a href="https://vercel.com" >
   <img src="https://skillicons.dev/icons?i=vercel"/>
