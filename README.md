@@ -36,9 +36,6 @@
 <a href="https://nodejs.org">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
-<a href="https://mysql.com" >
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-</a>
 <a href="https://git-scm.com" >
   <img src="https://skillicons.dev/icons?i=git"/>
 </a>
