@@ -5,7 +5,7 @@
 
 - 🔰 Sou de Anápolis/Go, Brasil.
 - ⚡ Apaixonado por Tecnologia e Corrida de Rua.
-- 🧠 Sou estudante FullStack na plataforma da Udemy, Alura e Youtube.
+- 🧠 Sou estudante Python e Análise de Dados na plataforma Udemy, Hotmart e Youtube.
 - 🏦 Atualmente trabalho como Analista de Compras.
 - 👨🏾‍💻 Estou sempre em busca de desafios e oportunidades para aprender e crescer profissionalmente. <br>
      Se você estiver interessado em colaborar ou compartilhar idéias, não hesite em entrar em contato comigo, <br>
@@ -13,28 +13,14 @@
 
 ##
 
-#### Estou aprendendo sobre:
+#### Tecnologias e Ferramentas que estou aprendendo:
 <div>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css"/>
-</a>
-<a href="https://bootstrap-lang.com">
-  <img src="https://skillicons.dev/icons?i=bootstrap"/>
-</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Python">
+  <img src="https://skillicons.dev/icons?i=python"/>
+</a> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
 </a>
-<a href="https://pt-br.react.dev">
-  <img src="https://skillicons.dev/icons?i=react"/>
-</a>
-<a href="https://npmjs.com">
-  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-</a>
-<a href="https://nodejs.org">
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 <a href="https://git-scm.com" >
   <img src="https://skillicons.dev/icons?i=git"/>
@@ -48,6 +34,9 @@
 <a href="https://vercel.com" >
   <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
+<a href="https://powershell.com" >
+  <img src="https://skillicons.dev/icons?i=powershell"/>
+</a>
 </div>
 
 ##
@@ -59,7 +48,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgr8272@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-rocha-7b8759164/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maycongr)
-
+[![Twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MayconRocha1)
 </div>
 
 ##
