@@ -3,7 +3,7 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Maycon, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨🏾‍💻 Sou um entusiasta da programação Python apaixonado por desafios e pela resolução criativa de problemas. Atualmente, estou mergulhado no universo da linguagem de programação Python, explorando suas vastas possibilidades e aprimorando minhas habilidades para criar soluções eficientes e elegantes. <br>
+- 👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas. Atualmente, estou mergulhado no universo da linguagem de programação Python, explorando suas vastas possibilidades e aprimorando minhas habilidades para criar soluções eficientes e elegantes. <br>
 Acredito que a área de tecnologia exige um compromisso constante com o aprendizado. Estou sempre em busca de novas ferramentas, bibliotecas e boas práticas que possam aprimorar minha eficiência como desenvolvedor Python. Participar de cursos online, conferências e colaborar em projetos de código aberto fazem parte da minha jornada de aprendizado contínuo. <br>
 Estou em busca de oportunidades para aplicar e aprimorar minhas habilidades em um ambiente profissional. Meu objetivo é contribuir para projetos desafiadores, ampliar meu conhecimento e crescer como profissional na área de desenvolvimento Python. <br>
 Se você busca um estudante dedicado, apaixonado por programação Python e disposto a enfrentar desafios inovadores, estou ansioso para contribuir para o sucesso da sua equipe.
