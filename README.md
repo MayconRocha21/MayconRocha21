@@ -14,6 +14,12 @@ Se você busca um estudante dedicado, apaixonado por programação Python e disp
 <div>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/Python">
   <img src="https://skillicons.dev/icons?i=python"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Django">
+  <img src="https://skillicons.dev/icons?i=django"/>
+</a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Flask">
+  <img src="https://skillicons.dev/icons?i=flask"/>
 </a> 
 </a>
 <a href="https://git-scm.com" >
