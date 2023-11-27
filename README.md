@@ -56,9 +56,8 @@
 #### Estatísticas:
 <div>
 <a href="https://github.com/MayconRocha21">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/?username=MayconRocha21&show_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="113em" src="http://github-readme-streak-stats.herokuapp.com/?user=MayconRocha21&amp;theme=radical">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/?username=MayconRocha21&show_icons=true&include_all_commits=true&theme=dracula"/>
 </a>
 </div>
 
