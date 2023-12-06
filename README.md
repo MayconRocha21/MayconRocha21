@@ -3,18 +3,23 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Maycon, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.<br> Atualmente, estou mergulhado no universo da linguagem de programação JavaScript, explorando suas vastas possibilidades e aprimorando minhas habilidades para criar soluções eficientes e elegantes. <br>
-Acredito que a área de tecnologia exige um compromisso constante com o aprendizado, estou sempre em busca de novas ferramentas, bibliotecas e boas práticas que possam aprimorar minha eficiência como desenvolvedor web.<br>
-Estou comprometido em expandir meus conhecimentos, explorando frameworks modernos e participando ativamente da comunidade de desenvolvedores.<br>
-Meu objetivo é contribuir para projetos desafiadores, ampliar meu conhecimento e crescer como profissional na área de desenvolvimento web. <br>
-Se você busca um estudante dedicado, apaixonado por programação, tecnologia e disposto a enfrentar desafios inovadores, estou ansioso para contribuir para o sucesso da sua equipe.<br><br>
+- 👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.<br> Estudante dedicado de PHP e JavaScript em busca de aprimorar habilidades de desenvolvimento web.<br> Apaixonado por criar soluções eficientes e interativas. Busco constantemente aprender e aplicar conceitos inovadores para contribuir no desenvolvimento de projetos web dinâmicos e funcionais.<br><br>
 
-   Vamos codar juntos e tornar o universo JavaScript ainda mais incrível! 🚀
+   Vamos codar juntos e tornar o universo da programação ainda mais incrível! 🚀
 
 ##
 
 #### Tecnologias e Ferramentas que estou aprendendo:
 <div>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/Php">
+  <img src="https://skillicons.dev/icons?i=php"/>
+</a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/MySql">
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</a>
+   <a https://laravel.com/docs/10.x/readme">
+  <img src="https://skillicons.dev/icons?i=laravel"/>
+</a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/Html">
   <img src="https://skillicons.dev/icons?i=html"/>
 </a>
