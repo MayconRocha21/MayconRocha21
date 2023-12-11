@@ -3,9 +3,7 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Maycon, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.<br> Estudante das tecnologias Python e JavaScript em busca de aprimorar habilidades de desenvolvimento web.<br> Apaixonado por criar soluções eficientes e interativas. Busco constantemente aprender e aplicar conceitos inovadores para contribuir no desenvolvimento de projetos web dinâmicos e funcionais.<br><br>
-
-   Vamos codar juntos e tornar o universo da programação ainda mais incrível! 🚀
+- 👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.<br> Estudante das tecnologias Python, Power BI e SQL estou em busca de aprimorar habilidades em Análise de dados.<br> Busco constantemente aprender e aplicar conceitos inovadores para contribuir no desenvolvimento de projetos em python e análises de dados.<br><br>
 
 ##
 
@@ -15,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=python"/>
 </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/MySql">
-  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=sql"/>
 </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/Html">
   <img src="https://skillicons.dev/icons?i=html"/>
