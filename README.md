@@ -1,17 +1,33 @@
 
 
 ## Hello, Devs!! 👋
-### O meu nome é Maycon, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### O meu nome é Maycon Rocha, Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.<br> Estudante das tecnologias Python, Power BI e SQL estou em busca de aprimorar minhas habilidades em Análise de dados.<br> Busco constantemente aprender e aplicar conceitos inovadores para contribuir no desenvolvimento de projetos em python e análises de dados.<br><br>
+<ul>
+<p>👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.</p>
+<p>📚 No momento estou estudando Python, SQL e Power BI</p>
+</ul>
+
+<h1> Tecnologias</h1>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Giu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Giu-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Giu-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Giu-git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Giu-github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
 ##
-
-#### Tecnologias e Ferramentas que estou aprendendo:
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="60" width="60" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
-  <img align="center" alt="SQL" height="60" width="60" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-  <img align="center" alt="Power BI" height="60" width="60" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+<div >
+  <a href="https://github.com/MayconRocha21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconRocha21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&langs_count=7&theme=dracula"/>
+   
+   ![Snake animation](https://github.com/MayconRocha21/MayconRocha21/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
 ##
