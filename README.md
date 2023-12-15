@@ -1,11 +1,11 @@
 
 # Hello World 👋🏾!
 
-- 👨🏾‍💻 Estudo programação desde dezembro/2022
-- 📖 No momento estou estudando: Python, SQL, JavaScript
-- 🚀 Posteriormente estudarei MySQL, NodeJs, PHP...
-
-<br>
+🌱 Frontend Developer; <br>
+⚡ Apaixonado por tecnologia; <br>
+👨🏾‍🎓 Formado em Administração; <br>
+🚀 Cursando Desenvolvimento Fullstack; <br>
+👨🏾‍💻 Estou estudando atualmente a linguagem Python. <br>
 
 ## Mais sobre mim:
 <br>
@@ -16,7 +16,7 @@ object **Maycon Rocha** {
  val acknowledgements = "Desenvolvedor FullStack"
 
  val primarySkillset = "Estou Aprendendo"
- val languages = listOf("Python", "JavaScript", "MySql", "React")
+ val languages = listOf("JavaScript", "React", "NodeJs", "Python", "PHP")
 
 }
 ```
