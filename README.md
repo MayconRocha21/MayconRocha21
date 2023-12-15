@@ -1,44 +1,101 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=52&center=true&vCenter=true&height=100&width=1000&lines=Hello+Devs!👋;)
 
+<table>
+  <tr>
+    <td> 
 
-## Hello, Devs!! 👋
-### O meu nome é Maycon Rocha, Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+-  👋🏾 O meu nome é Maycon Rocha, Seja bem-vindo ao meu perfil do GitHub.
+-  📚 Estudo programação desde Dezembro de 2022.
+-  📖 No momento estou estudando: JavaScript, React, NodeJs, Python.
+-  🚀 Meu objetivo é me tornar um programador FullStack.
+-  🔎 Entre em contato comigo através do link: https://mayconrocha21.github.io/My-Links/
 
-<ul>
-<p>👨🏾‍💻 Sou um entusiasta de Tecnologia apaixonado por desafios e pela resolução criativa de problemas.</p>
-<p>📚 No momento estou estudando Python, SQL e Power BI</p>
-</ul>
-
-<h1>🚀 Tecnologias que estou aprendendo</h1>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="python" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/04ee8bc6-7b63-4a81-a89e-1a731ca9d7d7">
-  <img align="center" alt="powerbi" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/e4565afb-358e-4548-8ddf-02be322ea8a6">
-  <img align="center" alt="sql" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/a7d2ff3d-80a6-41c1-89ce-4f7c6f52b8e9">
-  <img align="center" alt="javascript" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/d56dda71-f9a1-4460-898a-cb2d542100ea">
-  <img align="center" alt="html" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/3cea833a-6dd2-438f-977c-dff8b6e2e451">
-  <img align="center" alt="css" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/5b7a99ec-f150-43cd-8dd8-74488f8cad6b">
-  <img align="center" alt="git" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/c083bec1-3b88-4cac-8c12-317b9aeb2d64">
-  <img align="center" alt="github" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/f7f77011-a922-4cf3-b24b-9d4d8fefd188">
-  <img align="center" alt="vscode" height="70" width="70" src="https://github.com/MayconRocha21/MayconRocha21/assets/115021378/e8f29a45-4dba-4466-8c6f-9e319ffe95d1">
-</div>
-
-##
-<div >
-  <a href="https://github.com/MayconRocha21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconRocha21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&langs_count=7&theme=dracula"/>
-   
-</div>
-
-##
-
-#### Como entrar em contato comigo:
-
-<div>
+ 
+    </td>
+    <td align="center">
+      <img width="200%" alt="Github" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" />
+    </td>
+  </tr>
+   <tr align='center'>
+    <td colspan='2'><h2>Verifique meu status no Github::</h2></td>
+  </tr>
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgr8272@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-rocha-7b8759164/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maycongr)
-</div>
+  <tr>
+    
+  </tr>
+  
+  <tr>
+    
+  </tr>
+  
+  <tr align='center'>
+    <td colspan='2'>
+       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
+    </td>
+  </tr>
+  
+  <tr></tr>
+  
+  <tr align='center'>
+    <td>
+      <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MayconRocha21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
+    </td>
+    <td>
+      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MayconRocha21&theme=algolia&hide_border=true" />
+    </td>
+  </tr>
+  
+  <tr></tr>
+  
+  <tr>
+    <td colspan='2'>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayconRocha21&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+  
+  <tr align='center'>
+    <th>
+      <h2>Ferramentas</h2>
+    </th>
+ <th>
+      <h2>Base de Dados</h2>
+    </th>
+  </tr>
+ <tr align='center' height='100px'>
+    <td>
+      <img alt="VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+      <img alt="GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img alt="GITHUB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+      <img alt="VERCEL" height="50" width="50" src="https://flow-public.nimbuspop.com/flow-apps/vercel.png">
+    </td>
+    <td>
+      <img alt="MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
+    </td>
+  </tr>
+  
+  <tr align='center'>
+    <th>
+      <h2>Front-end</h2>
+    </th>
+    <th>
+      <h2>Back-end</h2>
+    </th>
+  </tr>
+   <tr align='center' height='100px'>
+    <td width='600px'>
+       <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img alt="REACTJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!--  <img alt="TYPESCRIPT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> -->  
+    <!--  <img alt="SASS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> -->
+    <!--  <img alt="BOOTSTRAP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> -->
+    </td>
+    <td width='600px'>
+      <img alt="NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img alt="PYTHON" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+  </tr>
+  </tr>
 
-
+  </table>
