@@ -4,7 +4,7 @@
   <tr>
     <td> 
 
--  👋🏾 O meu nome é Maycon Rocha, Seja bem-vindo ao meu perfil do GitHub.
+-  👋🏾 Me chamo Maycon Rocha, Seja bem-vindo ao meu perfil do GitHub.
 -  📚 Estudo programação desde Dezembro de 2022.
 -  📖 No momento estou estudando: JavaScript, React, NodeJs, Python.
 -  🚀 Meu objetivo é me tornar um programador FullStack.
