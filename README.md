@@ -1,16 +1,28 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="500px" width="500px" align="right">
 
-
-## Hello World 👋🏾, eu sou Maycon Rocha
+# Hello World 👋🏾!
 
 - 👨🏾‍💻 Estudo programação desde dezembro/2022
 - 📖 No momento estou estudando: Python, SQL, JavaScript
 - 🚀 Posteriormente estudarei MySQL, NodeJs, PHP...
-- 🤖 Desenvolvedor BackEnd 
-<br>
+
 <br>
 
-# Ferramentas:
+## Mais sobre mim:
+<br>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Maycon Rocha** {
+ val name = "Maycon Rocha"
+ val acknowledgements = "Desenvolvedor FullStack"
+
+ val primarySkillset = "Estou Aprendendo"
+ val languages = listOf("Python", "JavaScript", "MySql", "React")
+
+}
+```
+
+## Ferramentas que estou aprendendo:
 <br>
 <div align="left">
  <img alt="VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
@@ -20,8 +32,7 @@
 </div>
 <br>
 
-# Tecnologias:
-
+## Tecnologias que estou aprendendo:
 <br>
 <div align="left">
 <img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,7 +44,7 @@
 </div>
 <br>
 
-# Meus Status:
+## Meus Status:
 <br>
 <div align="left">
   <a href="https://github.com/MayconRocha21">
@@ -42,8 +53,7 @@
 </div>
 <br>
     
-# Me encontre nos links:
-
+## Me encontre nos links:
  <br>
 <div> 
   <a href="https://www.instagram.com/maycongr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
