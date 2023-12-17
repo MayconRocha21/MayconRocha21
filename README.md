@@ -4,8 +4,8 @@
 🌱 Frontend Developer; <br>
 ⚡ Apaixonado por tecnologia; <br>
 👨🏾‍🎓 Formado em Administração; <br>
-🚀 Cursando Desenvolvimento Fullstack; <br>
-👨🏾‍💻 Estou estudando atualmente a linguagem Python. <br>
+🚀 Cursando Desenvolvimento Fullstack na plataforma da Hotmart; <br>
+👨🏾‍💻 Atualmente estou estudando JavaScript e React.. <br>
 
 ## Mais sobre mim:
 <br>
@@ -33,12 +33,12 @@ object **Maycon Rocha** {
 ## Tecnologias que estou aprendendo:
 <br>
 <div align="left">
-<img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Maycon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maycon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maycon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="REACTJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Maycon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="REACTJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
 
