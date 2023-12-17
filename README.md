@@ -14,7 +14,6 @@
 object **Maycon Rocha** {
  val name = "Maycon Rocha"
  val acknowledgements = "Desenvolvedor FullStack"
-
  val primarySkillset = "Estou Aprendendo"
  val languages = listOf("JavaScript", "React", "NodeJs", "Python", "PHP")
 
