@@ -1,7 +1,7 @@
 
 # Hello World 👋🏾!
 
-🌱 Frontend Developer; <br>
+🌱 Desenvolvedor Front-end; <br>
 ⚡ Apaixonado por tecnologia; <br>
 👨🏾‍🎓 Formado em Administração; <br>
 🚀 Cursando Desenvolvimento Fullstack na plataforma da Hotmart; <br>
