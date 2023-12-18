@@ -2,7 +2,7 @@
 # Hello World 👋🏾!
 
 🌱 Desenvolvedor Front-end; <br>
-⚡ Apaixonado por tecnologia; <br>
+⚡ Apaixonado por tecnologia e corrida de rua; <br>
 👨🏾‍🎓 Formado em Administração; <br>
 🚀 Cursando Desenvolvimento Fullstack na plataforma da Hotmart; <br>
 👨🏾‍💻 Atualmente estou estudando JavaScript e React.. <br>
