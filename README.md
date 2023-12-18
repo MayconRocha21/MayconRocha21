@@ -7,19 +7,6 @@
 🚀 Cursando Desenvolvimento Fullstack na plataforma da Hotmart; <br>
 👨🏾‍💻 Atualmente estou estudando JavaScript e React.. <br>
 
-## Mais sobre mim:
-<br>
-
-```kotlin
-object **Maycon Rocha** {
- val name = "Maycon Rocha"
- val acknowledgements = "Desenvolvedor FullStack"
- val primarySkillset = "Estou Aprendendo"
- val languages = listOf("JavaScript", "React", "NodeJs", "Python", "PHP")
-
-}
-```
-
 ## Ferramentas que estou aprendendo:
 <br>
 <div align="left">
