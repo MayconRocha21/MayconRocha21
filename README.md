@@ -4,8 +4,8 @@
 🌱 Desenvolvedor Front-end; <br>
 ⚡ Apaixonado por Tecnologia e Corrida de rua; <br>
 👨🏾‍🎓 Formado em Administração; <br>
-🚀 Cursando Desenvolvimento Fullstack na plataforma da Hotmart; <br>
-👨🏾‍💻 Atualmente estou estudando React Js. <br>
+🚀 Cursando Desenvolvimento Fullstack na plataforma da Hotmart e Udemy; <br>
+👨🏾‍💻 Atualmente estou estudando React e TypeScript.<br>
 
 ## Ferramentas que estou aprendendo:
 <br>
@@ -25,10 +25,10 @@
   <img align="center" alt="Maycon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maycon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="REACTJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Maycon-TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="NODEJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Maycon-MySql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Maycon-flask" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+   
 </div>
 <br>
 
