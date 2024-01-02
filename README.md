@@ -3,7 +3,7 @@
 
 🌱 Desenvolvedor Front-end; <br>
 ⚡ Apaixonado por Tecnologia e Corrida de rua; <br>
-👨🏾‍💻 Atualmente estou estudando Python e Django.<br>
+👨🏾‍💻 Atualmente estou estudando JavaScript.<br>
 
 ## Ferramentas que estou aprendendo:
 <br>
