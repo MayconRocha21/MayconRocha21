@@ -1,9 +1,9 @@
 
 # Hello World 👋🏾, Sou Maycon Rocha!
 
-🌱 Desenvolvedor Front-end; <br>
+🌱 Desenvolvedor Python; <br>
 ⚡ Apaixonado por Tecnologia e Corrida de rua; <br>
-👨🏾‍💻 Atualmente estou estudando JavaScript.<br>
+👨🏾‍💻 Atualmente estou estudando Python.<br>
 
 ## Ferramentas que estou aprendendo:
 <br>
