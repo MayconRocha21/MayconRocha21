@@ -1,7 +1,7 @@
 
 # Hello World 👋🏾, Sou Maycon Rocha!
 
-🌱 Desenvolvedor Front-End; <br>
+🚀 Futuro Desenvolvedor FullStack; <br>
 ⚡ Apaixonado por Tecnologia e Corrida de rua; <br>
 👨🏾‍💻 Atualmente estou estudando Python.<br>
 
@@ -10,7 +10,7 @@
 <div align="left">
  <img alt="VSCODE" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
       <img alt="GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <img alt="GITHUB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+      <img alt="GITHUB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
       <img alt="VERCEL" height="50" width="50" src="https://flow-public.nimbuspop.com/flow-apps/vercel.png">
 </div>
 <br>
@@ -22,8 +22,10 @@
   <img align="center" alt="Maycon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maycon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maycon-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maycon-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <!-- <img align="center" alt="Maycon-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Maycon-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+          
  
    
 </div>
