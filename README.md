@@ -35,8 +35,8 @@
 <br>
 <div align="left">
   <a href="https://github.com/MayconRocha21">
-   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
-   <img height="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MayconRocha21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
+   <img height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MayconRocha21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
 </div>
 <br>
     
