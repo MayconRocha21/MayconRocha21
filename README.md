@@ -1,7 +1,7 @@
 
 # Hello World 👋🏾, Sou Maycon Rocha!
 
-🚀 Futuro Desenvolvedor FullStack; <br>
+🚀 Futuro Desenvolvedor Backend; <br>
 ⚡ Apaixonado por Tecnologia e Corrida de rua; <br>
 👨🏾‍💻 Atualmente estou estudando Python.<br>
 
@@ -25,6 +25,7 @@
  <!-- <img align="center" alt="Maycon-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maycon-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Maycon-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
           
  
    
