@@ -1,7 +1,7 @@
 
 # Hello World 👋🏾, Sou Maycon Rocha!
 
-🚀 Futuro Desenvolvedor Backend; <br>
+🚀 Futuro Desenvolvedor FullStack; <br>
 ⚡ Apaixonado por Tecnologia e Corrida de rua; <br>
 👨🏾‍💻 Atualmente estou estudando Python.<br>
 
@@ -25,7 +25,7 @@
  <!-- <img align="center" alt="Maycon-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Maycon-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maycon-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Power BI" height="50" width="50" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+ <!-- <img align="center" alt="Power BI" height="50" width="50" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true"> -->
    <img align="center" alt="Maycon-Sqlserver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Maycon-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
           
