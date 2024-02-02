@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Maycon Rocha!
 
-### 🎓 Sobre mim:
+### 👨🏾‍💻 Sobre mim:
 
 🌍 Moro no Estado de Goiás.<br/>
 📚 Atualmente estudando Desenvolvimento Web FullStack.<br/>
@@ -9,12 +9,12 @@
 
 ### 👨🏾‍💻 Interesses profissionais:
 
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Backend.<br/>
+🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Front-end.<br/>
 
 ### 📈 Meus objetivos:
 
 👨🏾‍💻 Desenvolver sistemas que façam a diferença.<br/>
-🌐 Para conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.<br/>
+🌐 Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.<br/>
 
 ### 📫 Entre em contato:
 
