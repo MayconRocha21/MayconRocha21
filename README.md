@@ -3,17 +3,17 @@
 ### 👨🏾‍💻 Sobre mim:
 
 🌍 Moro no Estado de Goiás.<br/>
-📚 Atualmente estudando Desenvolvimento Web FullStack.<br/>
+📊 Atualmente estudando Análise de Dados.<br/>
 🎓 Formado em Administração.<br/>
-💻 Desenvolvedor Web apaixonado por criar soluções elegantes.<br/>
+
 
 ### 👨🏾‍💻 Interesses profissionais:
 
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Front-end.<br/>
+🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando SQL / Power BI e Python.<br/>
 
 ### 📈 Meus objetivos:
 
-👨🏾‍💻 Desenvolver sistemas que façam a diferença.<br/>
+👨🏾‍💻 Migrar para área de dados e conseguir realizar análises valiosas e que geram muitos resultados.<br/>
 🌐 Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.<br/>
 
 ### 📫 Entre em contato:
