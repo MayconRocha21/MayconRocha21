@@ -3,17 +3,17 @@
 ### 👨🏾‍💻 Sobre mim:
 
 🌍 Moro no Estado de Goiás.<br/>
-📊 Atualmente estudando Análise de Dados.<br/>
+📊 Atualmente estudando Python.<br/>
 🎓 Formado em Administração.<br/>
 
 
 ### 👨🏾‍💻 Interesses profissionais:
 
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando SQL / Power BI e Python.<br/>
+🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando Python.<br/>
 
 ### 📈 Meus objetivos:
 
-👨🏾‍💻 Migrar para área de dados e conseguir realizar análises valiosas e que geram muitos resultados.<br/>
+👨🏾‍💻 Migrar para área de tecnologia e em especial na área de Python e conseguir desenvolver sistemas robustos e realizar analises de grande valor.<br/>
 🌐 Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.<br/>
 
 ### 📫 Entre em contato:
