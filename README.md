@@ -3,17 +3,17 @@
 ### 👨🏾‍💻 Sobre mim:
 
 🌍 Moro no Estado de Goiás.<br/>
-📊 Atualmente estudando Python.<br/>
+📊 Atualmente estudando JavaScript.<br/>
 🎓 Formado em Administração.<br/>
 
 
 ### 👨🏾‍💻 Interesses profissionais:
 
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando Python.<br/>
+🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando a área Front-end.<br/>
 
 ### 📈 Meus objetivos:
 
-👨🏾‍💻 Migrar para área de tecnologia e em especial na área de Python e conseguir desenvolver sistemas robustos e realizar analises de grande valor.<br/>
+👨🏾‍💻 Migrar para área de tecnologia e conseguir desenvolver sistemas web e contrubuir em grandes projetos.<br/>
 🌐 Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.<br/>
 
 ### 📫 Entre em contato:
