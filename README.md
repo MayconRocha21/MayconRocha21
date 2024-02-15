@@ -5,11 +5,11 @@
 🌍 Moro no Estado de Goiás.<br/>
 📚 Atualmente estudando Desenvolvimento Web FullStack.<br/>
 🎓 Formado em Administração.<br/>
-💻 Aprendendo JavaScript.<br/>
+💻 Aprendendo Python.<br/>
 
 ### 👨🏾‍💻 Interesses profissionais:
 
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Front-end.<br/>
+🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Backend com Python.<br/>
 
 ### 📈 Meus objetivos:
 
