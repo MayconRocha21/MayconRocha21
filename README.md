@@ -18,6 +18,8 @@
 
 ### 📫 Entre em contato:
 
-💬 Sinta-se à vontade para solicitar colaborações ou apenas um bate-papo técnico!<br/>
-📧 Envie-me um e-mail para maycon_gr@hotmail.com.<br/>
-🔗 [Perfil do Linkedin](https://www.linkedin.com/in/maycon-rocha-7b8759164/).<br/>
+<div> 
+  <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maycon-rocha-7b8759164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/maycongr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
