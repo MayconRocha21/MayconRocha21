@@ -5,15 +5,15 @@
 🌍 Moro no Estado de Goiás.<br/>
 📚 Atualmente estudando Desenvolvimento Backend.<br/>
 🎓 Formado em Administração.<br/>
-💻 Aprendendo JavaScript, Node Js, My Sql.<br/>
+💻 Aprendendo Python.
 
 ### 👨🏾‍💻 Interesses profissionais:
 
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Node Js.<br/>
+🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre Python.<br/>
 
 ### 📈 Meus objetivos:
 
-👨🏾‍💻 Desenvolver API's e sistemas que façam a diferença.<br/>
+👨🏾‍💻 Desenvolver API's, Automações e sistemas que façam a diferença.<br/>
 🌐 Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.<br/>
 
 ### 📫 Entre em contato:
