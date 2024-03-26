@@ -5,11 +5,7 @@
 🌍 Moro no Estado de Goiás.<br/>
 📚 Atualmente estudando Análise de dados.<br/>
 💻 Aprendendo SQL, Power BI e Python.
-
-
-
-🖥️ Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre SQL e Python.<br/>
-
+👨🏾‍💻 Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre SQL e Python.<br/>
 
 
 ### 📫 Entre em contato:
