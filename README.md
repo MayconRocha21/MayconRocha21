@@ -1,14 +1,28 @@
-## 👋 Olá, sou Maycon Rocha!
+# 👋 Olá, sou Maycon Rocha!
 
-### 👨🏾‍💻 Sobre mim:
+## Sobre mim:
 
 🌍 Moro no Estado de Goiás.<br/>
 📚 Atualmente estudando Análise de dados.<br/>
 💻 Aprendendo SQL, Power BI e Python.
-👨🏾‍💻 Profundamente fascinado por todas as áreas de tecnologia, atualmente estudando mais sobre SQL e Python.<br/>
 
+## Tecnologias:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+</div>
 
-### 📫 Entre em contato:
+## Ferramentas:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+</div>
+
+## Entre em contato:
 
 <div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
