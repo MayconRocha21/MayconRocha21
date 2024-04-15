@@ -2,9 +2,10 @@
 
 ## Sobre mim:
 
-🌍 Moro no Estado de Goiás.<br/>
-📚 Atualmente estudando Front-end.<br/>
-💻 Aprendendo JavaScript e React Js.
+🌍 Moro em Anápolis/Go.<br/>
+👨🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+🎓 Atualmente estudando Front-end com o Sujeito Programador.<br/>
+🌱 Aprendendo mais sobre: HTML, CSS, JavaScript, React, Git e Github.
 
 ## Tecnologias:
 <div style="display: inline_block"><br>
