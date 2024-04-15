@@ -1,10 +1,9 @@
 # 👋 Olá, sou Maycon Rocha!
 
 ## Sobre mim:
-
+👨🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software. <br/>
 🌍 Moro em Anápolis/Go.<br/>
-👨🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-🎓 Atualmente estudando Front-end com o Sujeito Programador.<br/>
+🎓 Atualmente estudando Front-end com o Sujeito Programador. <br/>
 🌱 Aprendendo mais sobre: HTML, CSS, JavaScript, React, Git e Github.
 
 ## Tecnologias:
