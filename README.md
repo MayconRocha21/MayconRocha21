@@ -3,7 +3,7 @@
 ## Sobre mim:
 👨🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software. <br/>
 🌍 Moro em Anápolis/Go.<br/>
-🎓 Atualmente estudando Front-end com o Sujeito Programador. <br/>
+🎓 Atualmente estudando Front-end na plataforma do Hora de Codar com o Matheus Battisti. <br/>
 🌱 Aprendendo mais sobre: HTML, CSS, JavaScript, React, Git e Github.
 
 ## Tecnologias:
