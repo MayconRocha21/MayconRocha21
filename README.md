@@ -4,10 +4,7 @@
 👨🏾‍💻 Sou um entusiasta da programação que está embarcando em uma jornada de aprendizado em Python.
 
 ## Objetivo:
-Meu principal objetivo é dominar Python, desde os conceitos básicos até técnicas avançadas, a fim de me tornar um desenvolvedor proficientes nesta linguagem versátil e poderosa.
-
-## Como Contribuir:
-Se você também está aprendendo Python ou tem experiência para compartilhar, fique à vontade para contribuir com sugestões, correções ou até mesmo novos materiais que possam enriquecer este repositório. Juntos, podemos tornar esta jornada de aprendizado ainda mais interessante e produtiva!
+Meu principal objetivo é dominar Python, desde os conceitos básicos até técnicas avançadas, a fim de me tornar um desenvolvedor proficiente nesta linguagem versátil e poderosa.
 
 ## Conteúdo:
 <ol>
@@ -27,6 +24,10 @@ Se você também está aprendendo Python ou tem experiência para compartilhar, 
     <b>Projetos e Desafios:</b> Ao longo do caminho, trabalharei em projetos práticos e enfrentarei desafios para aplicar o que aprendi e aprimorar minhas habilidades.
   </li>
 </ol>
+
+## Como Contribuir:
+Se você também está aprendendo Python ou tem experiência para compartilhar, fique à vontade para contribuir com sugestões, correções ou até mesmo novos materiais que possam enriquecer este repositório. Juntos, podemos tornar esta jornada de aprendizado ainda mais interessante e produtiva!
+
 
 ## Entre em contato:
 
