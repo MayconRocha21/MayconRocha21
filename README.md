@@ -1,33 +1,40 @@
 # 👋 Olá, sou Maycon Rocha!
 
 ## Sobre mim:
-👨🏾‍💻 Explorando novas tecnologias e desenvolvendo soluções de software. <br/>
-🌍 Moro em Anápolis/Go.<br/>
-🎓 Atualmente estudando Front-end na plataforma do Hora de Codar com o Matheus Battisti. <br/>
-🌱 Aprendendo mais sobre: HTML, CSS, JavaScript, React, Git e Github.
+👨🏾‍💻 Sou um entusiasta da programação que está embarcando em uma jornada de aprendizado em Python.
 
-## Tecnologias:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-</div>
+## Objetivo:
+Meu principal objetivo é dominar Python, desde os conceitos básicos até técnicas avançadas, a fim de me tornar um desenvolvedor proficientes nesta linguagem versátil e poderosa.
 
-## Ferramentas:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-</div>
+## Como Contribuir:
+Se você também está aprendendo Python ou tem experiência para compartilhar, fique à vontade para contribuir com sugestões, correções ou até mesmo novos materiais que possam enriquecer este repositório. Juntos, podemos tornar esta jornada de aprendizado ainda mais interessante e produtiva!
+
+## Conteúdo:
+<ol>
+  <li>
+    <b>Introdução ao Python:</b> Iniciarei com os fundamentos do Python, explorando conceitos como tipos de dados, estruturas de controle e funções.
+  </li>
+  <li>
+    <b>Manipulação de Dados:</b> Aprender a trabalhar com dados em Python, incluindo leitura e escrita de arquivos, manipulação de strings e listas, e uso de bibliotecas populares como NumPy e Pandas.
+  </li>
+  <li>
+    <b>Desenvolvimento Web com Python:</b> Explorarei o desenvolvimento web usando frameworks como Flask ou Django, criando aplicativos web dinâmicos e interativos.
+  </li>
+  <li>
+    <b>Ciência de Dados e Machine Learning:</b> Investigarei como Python é usado na ciência de dados e machine learning, explorando bibliotecas como TensorFlow, Scikit-learn e Matplotlib.
+  </li>
+  <li>
+    <b>Projetos e Desafios:</b> Ao longo do caminho, trabalharei em projetos práticos e enfrentarei desafios para aplicar o que aprendi e aprimorar minhas habilidades.
+  </li>
+</ol>
 
 ## Entre em contato:
+
+Se quiser entrar em contato comigo para discutir sobre Python, compartilhar recursos ou trocar experiências de aprendizado, não hesite em me enviar uma mensagem aqui nos links abaixo.
 
 <div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-rocha-7b8759164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/maycongr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/maycongr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/MayconGRocha1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
