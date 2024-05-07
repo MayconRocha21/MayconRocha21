@@ -1,17 +1,37 @@
 # 👋 Olá, sou Maycon Rocha!
 
 ## Sobre mim:
-Sou um entusiasta de tecnologia apaixonado por dados. Estou atualmente focado em aprimorar minhas habilidades em Python para análise de dados, SQL para manipulação eficiente de bancos de dados e Power BI para visualização e análise de dados interativa.
+👨🏾‍💻 Sou um entusiasta da programação que está embarcando em uma jornada de aprendizado em Python.
 
 ## Objetivo:
-O objetivo deste repositório é documentar meu progresso e compartilhar recursos úteis com outros estudantes e profissionais interessados em aprender ou aprimorar suas habilidades em Python, SQL e Power BI.
+Meu principal objetivo é dominar Python, desde os conceitos básicos até técnicas avançadas, a fim de me tornar um desenvolvedor proficiente nesta linguagem versátil e poderosa.
 
-## Como contribuir
-Se você tiver sugestões, correções ou quiser contribuir com seus próprios projetos ou recursos relacionados a Python, SQL ou Power BI, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua contribuição é muito bem-vinda!
+## Conteúdo:
+<ol>
+  <li>
+    <b>Introdução ao Python:</b> Iniciarei com os fundamentos do Python, explorando conceitos como tipos de dados, estruturas de controle e funções.
+  </li>
+  <li>
+    <b>Manipulação de Dados:</b> Aprender a trabalhar com dados em Python, incluindo leitura e escrita de arquivos, manipulação de strings e listas, e uso de bibliotecas populares como NumPy e Pandas.
+  </li>
+  <li>
+    <b>Desenvolvimento Web com Python:</b> Explorarei o desenvolvimento web usando frameworks como Flask ou Django, criando aplicativos web dinâmicos e interativos.
+  </li>
+  <li>
+    <b>Ciência de Dados e Machine Learning:</b> Investigarei como Python é usado na ciência de dados e machine learning, explorando bibliotecas como TensorFlow, Scikit-learn e Matplotlib.
+  </li>
+  <li>
+    <b>Projetos e Desafios:</b> Ao longo do caminho, trabalharei em projetos práticos e enfrentarei desafios para aplicar o que aprendi e aprimorar minhas habilidades.
+  </li>
+</ol>
+
+## Como Contribuir:
+Se você também está aprendendo Python ou tem experiência para compartilhar, fique à vontade para contribuir com sugestões, correções ou até mesmo novos materiais que possam enriquecer este repositório. Juntos, podemos tornar esta jornada de aprendizado ainda mais interessante e produtiva!
+
 
 ## Entre em contato:
 
-Se quiser entrar em contato comigo para discutir sobre Power BI, SQL ou Python, compartilhar recursos ou trocar experiências de aprendizado, não hesite em me enviar uma mensagem aqui nos links abaixo.
+Se quiser entrar em contato comigo para discutir sobre Python, compartilhar recursos ou trocar experiências de aprendizado, não hesite em me enviar uma mensagem aqui nos links abaixo.
 
 <div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
