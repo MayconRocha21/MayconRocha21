@@ -6,32 +6,9 @@
 ## Objetivo:
 Meu principal objetivo é dominar Python, desde os conceitos básicos até técnicas avançadas, a fim de me tornar um desenvolvedor proficiente nesta linguagem versátil e poderosa.
 
-## Conteúdo:
-<ol>
-  <li>
-    <b>Introdução ao Python:</b> Iniciarei com os fundamentos do Python, explorando conceitos como tipos de dados, estruturas de controle e funções.
-  </li>
-  <li>
-    <b>Manipulação de Dados:</b> Aprender a trabalhar com dados em Python, incluindo leitura e escrita de arquivos, manipulação de strings e listas, e uso de bibliotecas populares como NumPy e Pandas.
-  </li>
-  <li>
-    <b>Desenvolvimento Web com Python:</b> Explorarei o desenvolvimento web usando frameworks como Flask ou Django, criando aplicativos web dinâmicos e interativos.
-  </li>
-  <li>
-    <b>Ciência de Dados e Machine Learning:</b> Investigarei como Python é usado na ciência de dados e machine learning, explorando bibliotecas como TensorFlow, Scikit-learn e Matplotlib.
-  </li>
-  <li>
-    <b>Projetos e Desafios:</b> Ao longo do caminho, trabalharei em projetos práticos e enfrentarei desafios para aplicar o que aprendi e aprimorar minhas habilidades.
-  </li>
-</ol>
-
-## Como Contribuir:
-Se você também está aprendendo Python ou tem experiência para compartilhar, fique à vontade para contribuir com sugestões, correções ou até mesmo novos materiais que possam enriquecer este repositório. Juntos, podemos tornar esta jornada de aprendizado ainda mais interessante e produtiva!
-
-
 ## Entre em contato:
 
-Se quiser entrar em contato comigo para discutir sobre Python, compartilhar recursos ou trocar experiências de aprendizado, não hesite em me enviar uma mensagem aqui nos links abaixo.
+Se quiser entrar em contato comigo para discutir sobre Python, programação, tecnologias, desenvolvimento web e outros assuntos relacionados ao mundo da tecnologia, não hesite em me enviar uma mensagem aqui nos links abaixo.
 
 <div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
