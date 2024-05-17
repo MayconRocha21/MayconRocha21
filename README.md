@@ -1,33 +1,25 @@
-# 👋 Olá, sou Maycon Rocha!
+# Olá!👋🏾
 
-## Sobre mim:
-👨🏾‍💻 Sou um entusiasta de tecnologia apaixonado por criar experiências digitais incríveis.<br/>
-🌍 Moro em Anápolis/Go.<br/>
-🎓 Atualmente, estou focado em me aprimorar no mundo do desenvolvimento front-end. na plataforma da OneBitCode. <br/>
-🌱 Aprendendo mais sobre: Html, Css, JavaScript, Git e Github, React.
+Seja bem-vindo ao meu repositório! Este repositório foi criado para documentar e compartilhar minha jornada de aprendizado na área de análise de dados.<br>Aqui, você encontrará anotações, exemplos de código, projetos e recursos úteis relacionados ao uso de várias ferramentas e tecnologias essenciais para a análise de dados.
 
 ## Tecnologias que estou aprendendo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<!--   <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"> -->
-</div>
 
-## Ferramentas que :
-<div style="display: inline_block"><br>
-  <img align="center" alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="vercel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-</div>
+* __Excel:__ Ferramenta fundamental para análise e visualização de dados, com funcionalidades avançadas como tabelas dinâmicas, gráficos e fórmulas complexas.
+* __Power Query:__ Ferramenta de ETL (Extract, Transform, Load) do Excel e Power BI, usada para importar, limpar e transformar dados de várias fontes.
+* __Power BI:__ Plataforma de análise de negócios que permite criar relatórios e dashboards interativos, proporcionando insights visuais a partir dos dados.
+* __SQL:__ Linguagem de consulta estruturada, usada para gerenciar e manipular bancos de dados relacionais, permitindo consultas eficientes e organização de grandes volumes de dados.
+* __Python:__ Linguagem de programação versátil e poderosa, com bibliotecas especializadas para análise de dados como Pandas, NumPy, Matplotlib e Seaborn.
 
-## Entre em contato:
+## Objetivos:
 
-Se você tem alguma dica, sugestão de recurso, ou simplesmente quer trocar ideias sobre desenvolvimento front-end e outras tecnologias, fique à vontade para entrar em contato!<br>Estou sempre interessado em conectar com outros profissionais e estudantes da área e compartilhar conhecimento e aprendizagem.
+* __Compreensão Profunda:__ Desenvolver uma compreensão profunda de cada ferramenta e tecnologia, suas capacidades e limitações.
+* __Aplicação Prática:__ Aplicar os conhecimentos adquiridos em projetos práticos e estudos de caso reais.
+* __Integração de Ferramentas:__ Aprender a integrar diferentes ferramentas para construir pipelines de dados robustos e eficientes.
+* __Desenvolvimento Contínuo:__ Manter-se atualizado com as melhores práticas e novas tendências em análise de dados.
 
+## Contato:
+
+Para dúvidas, sugestões ou discussões sobre o conteúdo deste repositório, você pode entrar em contato comigo através dos links abaixo.
 <div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-rocha-7b8759164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
