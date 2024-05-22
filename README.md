@@ -1,9 +1,19 @@
 # 👋 Olá, sou Maycon Rocha!
 
-👨🏾‍💻 Sou um entusiasta da programação que está embarcando em uma jornada de aprendizado em Python.
+👨🏾‍💻 Sou um entusiasta da programação que está embarcando em uma jornada de aprendizado em Python para Análise de dados.
 
-## Objetivo:
-🚀 Meu principal objetivo é dominar Python, desde os conceitos básicos até técnicas avançadas, a fim de me tornar um desenvolvedor proficiente nesta linguagem versátil e poderosa.
+## Tecnologias:
+
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Banco de Dados](https://img.shields.io/badge/-Database-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAA..muitos.caracteres...8bgAAAAASUVORK5CYII=)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=40)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
 
 ## Entre em contato:
 
