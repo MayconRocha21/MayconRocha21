@@ -1,22 +1,31 @@
 # 👋 Olá, sou Maycon Rocha!
 
-👨🏾‍💻 Sou um entusiasta da programação que está embarcando em uma jornada de aprendizado em Python para Análise de dados.
+- 👨🏾‍💻 Sou um entusiasta de Tecnologia;
+- 👨🏾‍🎓 Estudando HTML, CSS, JavaScript e React;
+- 💬 Email: mgr8272@gmail.com;
+- 👨🏾‍🎓 Estudante Front-end com o professor Matheus Fraga na plataforma Sujeito Programador.
+
+<!--# 📊 GitHub Stats:-->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=MayconRocha21&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MayconRocha21&theme=dark&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21s&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
 ## Tecnologias:
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=database&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoWidth=40)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=40)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=40)
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </div>
 
 ## Entre em contato:
 
-Se quiser entrar em contato comigo para discutir sobre Python, programação, tecnologias, desenvolvimento web e outros assuntos relacionados ao mundo da tecnologia, não hesite em me enviar uma mensagem aqui nos links abaixo.
+Se quiser entrar em contato comigo para discutir sobre programação, tecnologias, desenvolvimento web e outros assuntos relacionados ao mundo da tecnologia, não hesite em me enviar uma mensagem aqui nos links abaixo.
 
 <div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
