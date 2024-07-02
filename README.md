@@ -13,7 +13,7 @@ Sou um entusiasta de tecnologia e um estudante de Python. Estou sempre em busca 
 
 ### Objetivos
 
-🌟 Meu objetivo é me tornar um desenvolvedor Python proficiente, capaz de criar soluções inovadoras e eficientes. Estou empenhado em aprender, colaborar e crescer dentro da comunidade de desenvolvedores.
+👨🏾‍💻 Meu objetivo é me tornar um desenvolvedor Python proficiente, capaz de criar soluções inovadoras e eficientes. Estou empenhado em aprender, colaborar e crescer dentro da comunidade de desenvolvedores.
 
 ### Conecte-se comigo
 
