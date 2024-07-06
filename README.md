@@ -6,10 +6,9 @@ Sou um entusiasta de tecnologia e um estudante de Python. Estou sempre em busca 
 
 🚀 Atualmente, estou focado em aprimorar minhas habilidades em Python. Meus principais interesses incluem:
 
-- **Desenvolvimento Web**: Explorando frameworks como Django e Flask.
+- *Desenvolvimento Web**: Explorando frameworks como Django e Flask.
 - **Análise de Dados**: Trabalhando com bibliotecas como Pandas, NumPy e Matplotlib.
 - **Automação de Tarefas**: Criando scripts para simplificar processos repetitivos.
-- **Machine Learning**: Dando os primeiros passos com Scikit-Learn e TensorFlow.
 
 ### Objetivos
 
