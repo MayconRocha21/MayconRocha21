@@ -1,26 +1,17 @@
-👋 Olá! Eu sou <b> Maycon Rocha <b>, <br>
+# Olá! 👋 Eu sou Maycon Rocha.
 
-Sou um entusiasta de tecnologia e um estudante de Python. Estou sempre em busca de novos conhecimentos e habilidades para melhorar meus projetos e contribuir para a comunidade de código aberto.
+🤓 Estudante de desenvolvimento Frontend apaixonado por criar interfaces web incríveis e acessíveis. Entusiasta de tecnologia, acessibilidade e inteligência artificial. Minha missão é contribuir para uma web mais inclusiva e semântica, garantindo que todas as pessoas tenham acesso a uma experiência digital excepcional.
 
-### O que estou estudando
+💼 No momento estou estudando tecnologias como HTML, CSS, JavaScript, React.js, Tailwind CSS.
 
-🚀 Atualmente, estou focado em aprimorar minhas habilidades em Python. Meus principais interesses incluem:
+🚀 Estou constantemente buscando aprimorar meus conhecimentos e habilidades através do aprendizado contínuo.
+<div>
 
-- *Desenvolvimento Web**: Explorando frameworks como Django e Flask.
-- **Análise de Dados**: Trabalhando com bibliotecas como Pandas, NumPy e Matplotlib.
-- **Automação de Tarefas**: Criando scripts para simplificar processos repetitivos.
-
-### Objetivos
-
-👨🏾‍💻 Meu objetivo é me tornar um desenvolvedor Python proficiente, capaz de criar soluções inovadoras e eficientes. Estou empenhado em aprender, colaborar e crescer dentro da comunidade de desenvolvedores.
-
-### Conecte-se comigo
-
-Estou sempre aberto a novas conexões e colaborações!
-<div> 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-rocha-7b8759164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/maycongr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--  <a href="https://twitter.com/MayconGRocha1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> -->
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="#"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  
 </div>
+
