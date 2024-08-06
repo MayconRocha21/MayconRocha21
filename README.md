@@ -1,9 +1,6 @@
-# Olá! 👋 Eu sou Maycon Rocha.
+# Olá! 👋🏾 Eu sou Maycon Rocha.
 
-👨🏾‍💻 Estudante de desenvolvimento Frontend apaixonado por criar interfaces web incríveis e acessíveis. Entusiasta de tecnologia, acessibilidade e inteligência artificial. Minha missão é contribuir para uma web mais inclusiva e semântica, garantindo que todas as pessoas tenham acesso a uma experiência digital excepcional.
-
-💼 No momento estou estudando tecnologias como HTML, CSS, JavaScript, React.js, Tailwind CSS.
-
+👨🏾‍💻 Estudante Python, apaixonado por tecnologia.
 🚀 Estou constantemente buscando aprimorar meus conhecimentos e habilidades através do aprendizado contínuo.
 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
