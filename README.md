@@ -1,6 +1,8 @@
 # Olá! 👋🏾 Eu sou Maycon Rocha.
 
-👨🏾‍💻 Estudante Python, apaixonado por tecnologia.
+👨🏾‍💻 Estudante Python, apaixonado por tecnologia. <br>
+
+
 🚀 Estou constantemente buscando aprimorar meus conhecimentos e habilidades através do aprendizado contínuo.
 
   <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
