@@ -1,11 +1,12 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-👨🏾‍💻 Olá! me chamo Maycon Rocha, sou um estudante Front-End, atualmente estou aprendendo e criando projetos com:
+👨🏾‍💻 Estudante de Análise de Dados com foco em ferramentas e tecnologias como Excel, Power BI, SQL e Python. Apaixonado por transformar dados em insights acionáveis, estou em constante aprendizado para aprimorar minhas habilidades e enfrentar desafios do mundo real na área de dados.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Power BI" height="50" width="40" src="#">
+  <img align="center" alt="Excel" height="50" width="40" src="#">
 </div>
 <br>
 
