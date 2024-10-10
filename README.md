@@ -1,7 +1,7 @@
 ## Olá, eu sou Maycon Rocha 👋
 
 - 🎓 Cursando QA e Teste de Software na Faculdade Vincit
-- 🌱 HTML | CSS | Javascript | PostgreSQL | Python
+- 🌱 HTML | CSS | Javascript | SQL | MySQL | PostgreSQL | Python
 - 🔭 QA Tester na NTT DATA Brasil
 
 
