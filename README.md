@@ -1,54 +1,119 @@
-## Olá, eu sou Maycon Rocha 👋
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/bb5162e9ea69646bf34b8de6d58c252b6409ed4f5a6ca2c0bb3aa98c5e4209cd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d686561646572"  />
+</div>
 
-- 🎓 Cursando QA e Teste de Software na Faculdade Vincit
-- 🌱 HTML | CSS | Javascript | SQL | MySQL | PostgreSQL | Python
-- 🔭 QA Tester na NTT DATA Brasil
+###
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&color=5F92E5&center=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Bem+vindos+ao+meu+GitHub!" alt="Typing SVG" /></a>
+</div>
+  
+###
 
+<p align="center">Meu nome é Maycon e sou um QA Tester apaixonado em Tecnologia, Programação e Dados. Meu objetivo e entusiasmo é garantir a qualidade de softwares e transformar a realidade através de códigos. Vamos juntos contribuir para a evolução tecnológica! 🚀🌐</p>
 
-## 💻 Tecnologias que estou aprendendo:
+###
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PostgreSQ](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!--![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)-->
-<!--![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)-->
-<!--![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)-->
-<!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)-->
+<img align="right" height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
 
+###
 
+<h4 align="left">Descubra mais sobre mim 🔍</h4>
 
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)--> 
-<br>
+###
 
-## 🛠️ Terminal e Ferramentas:
+<p align="left">🎓 QA Tester <br>📚 Atualmente estudando Quality Assurance <br>🎯 Objetivo é tornar-me um Especialista em Testes de Software <br>🏃🏾‍♂️‍➡️ Corrida de rua  <br>📍 Sou de Anápolis, GO - Brasil</p>
 
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+###
 
-<br>
+<br clear="both">
 
-## 🌐 Contate-me:
+<h4 align="center">ME CONTATE 📲</h4>
 
-  <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+###
+
+<div align="center">
+ <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-rocha-7b8759164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/maycongr/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+    <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>-->
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a> 
-<br>
-<br>
+</div>
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=mayconrocha21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=mayconrocha21&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconrocha21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+<br clear="both">
 
----
- <img src="https://komarev.com/ghpvc/?username=mayconrocha21&label=Profile%20views&color=0e75b6&style=flat" alt="mayconrocha21" />
- 
+<h2 align="left">💻 Tecnologias e Ferramentas 🛠️</h2>
+
+###
+
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="Postgresql logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="SQlServer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+
+</div>
+
+###
+
+<h6 align="left">EM ESTUDO...</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sqldeveloper />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo />
+  <img width="12" />
+  
+</div>
+
+###
+<br clear="both">
+
+<h2 align="left">⚙️  GitHub Analytics 📈</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayconRocha21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayconRocha21&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayconRocha21&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="284" alt="activity-graph graph"  />
+</div>
+
+###
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MayconRocha21.MayconRocha21&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
+</div>
+
+###
+
+<p align="center">Obrigado pela visita!</p>
+
+###
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/8de6f18971dc95a306bcbefa4878a5685b102f72905d9d1ca0af1be62024cac8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d666f6f746572"  />
+</div>
+
+###
