@@ -21,7 +21,13 @@
 
 ###
 
-<p align="left">🎓 QA Tester <br>📚 Atualmente estudando Quality Assurance <br>🎯 Objetivo é tornar-me um Especialista em Testes de Software <br>🏃🏾‍♂️‍➡️ Corrida de rua  <br>📍 Sou de Anápolis, GO - Brasil</p>
+<p align="left">
+  📚 Atualmente estudando sobre QA e outras tecnologias; <br>
+  🎯 Objetivo é tornar-me um Especialista em Testes de Software; <br>
+  ☕ Apaixonado por café (Sem açúcar);
+  🏃🏾‍♂️‍➡️ Apaixonado por corrida de rua;  <br>
+  📍 Sou de Anápolis, GO - Brasil.
+</p>
 
 ###
 
