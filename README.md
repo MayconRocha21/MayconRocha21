@@ -24,7 +24,7 @@
 <p align="left">
   📚 Atualmente estudando sobre QA e outras tecnologias; <br>
   🎯 Objetivo é tornar-me um Especialista em Testes de Software; <br>
-  ☕ Apaixonado por café (Sem açúcar);
+  ☕ Apaixonado por café (Sem açúcar); <br>
   🏃🏾‍♂️‍➡️ Apaixonado por corrida de rua;  <br>
   📍 Sou de Anápolis, GO - Brasil.
 </p>
