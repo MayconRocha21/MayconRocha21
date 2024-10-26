@@ -12,7 +12,7 @@
 <br>
 
 ## Sobre Mim
-Me chamo Maycon Rocha, sou um apaixonado por tecnologia e programação. Atualmente, estou focado em aprender JavaScript e outras tecnologias.
+Me chamo Maycon Rocha, sou um apaixonado por tecnologias, programação e dados. Atualmente, estou focado em aprender JavaScript e outras tecnologias.
 
 ## Objetivos
 - Desenvolver pequenos projetos para praticar minhas habilidades
@@ -25,6 +25,7 @@ Me chamo Maycon Rocha, sou um apaixonado por tecnologia e programação. Atualme
 - React
 - Python
 - Node
+- SQL / Oracle SQL / PostgreSQL
 - Git e GitHub
 
 ## Contato
