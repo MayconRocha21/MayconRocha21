@@ -9,33 +9,25 @@
   
 ###
 
-<p align="center">Meu nome é Maycon e sou um QA Tester apaixonado em Tecnologia, Programação e Dados. Meu objetivo e entusiasmo é garantir a qualidade de softwares e transformar a realidade através de códigos. Vamos juntos contribuir para a evolução tecnológica! 🚀🌐</p>
+<br>
 
-###
+## Sobre Mim
+Me chamo Maycon Rocha, sou um apaixonado por tecnologia e programação. Atualmente, estou focado em aprender JavaScript e outras tecnologias.
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
+## Objetivos
+- Desenvolver pequenos projetos para praticar minhas habilidades
+- Contribuir para projetos open-source
 
-###
+## Tecnologias 
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Node
+- Git e GitHub
 
-<h4 align="left">Descubra mais sobre mim 🔍</h4>
-
-###
-
-<p align="left">
-  📚 Atualmente estudando sobre QA e outras tecnologias; <br>
-  🎯 Objetivo é tornar-me um Especialista em Testes de Software; <br>
-  ☕ Apaixonado por café (Sem açúcar); <br>
-  🏃🏾‍♂️‍➡️ Apaixonado por corrida de rua;  <br>
-  📍 Sou de Anápolis, GO - Brasil.
-</p>
-
-###
-
-<br clear="both">
-
-<h4 align="center">ME CONTATE 📲</h4>
-
-###
+## Contato
 
 <div align="center">
  <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -45,76 +37,18 @@
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a> 
 </div>
 
-###
+<br>
 <br clear="both">
 
-<h2 align="left">💻 Tecnologias e Ferramentas 🛠️</h2>
-
-###
-
-<div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="Postgresql logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="SQlServer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-
-</div>
-
-###
-
-<h6 align="left">EM ESTUDO...</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" alt="selenium logo />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sqldeveloper />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo />
-  <img width="12" />
-  
-</div>
-
-###
-<br clear="both">
-
-<h2 align="left">⚙️  GitHub Analytics 📈</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayconRocha21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayconRocha21&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="135" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayconRocha21&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="284" alt="activity-graph graph"  />
-</div>
-
-###
-<br clear="both">
+<p align="center">Obrigado pela visita!</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MayconRocha21.MayconRocha21&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
 </div>
 
-###
 
-<p align="center">Obrigado pela visita!</p>
+
+
 
 ###
 
@@ -123,3 +57,6 @@
 </div>
 
 ###
+
+
+
