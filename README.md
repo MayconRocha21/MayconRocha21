@@ -15,8 +15,10 @@
 Me chamo Maycon Rocha, sou um apaixonado por tecnologias, programação e dados. Atualmente, estou focado em aprender JavaScript e outras tecnologias.
 
 ## Objetivos
-- Desenvolver pequenos projetos para praticar minhas habilidades
-- Contribuir para projetos open-source
+- Desenvolver pequenos projetos para praticar minhas habilidades;
+- Contribuir para projetos open-source;
+- Evoluir cada dia mais;
+- Me tornar um Desenvolvedor de Software
 
 ## Tecnologias 
 - HTML
