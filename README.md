@@ -12,23 +12,33 @@
 <br>
 
 ## Sobre Mim
-Me chamo Maycon Rocha, sou um apaixonado por tecnologias, programação e dados. Atualmente, estou focado em aprender JavaScript e outras tecnologias.
 
-## Objetivos
-- Desenvolver pequenos projetos para praticar minhas habilidades;
-- Contribuir para projetos open-source;
-- Evoluir cada dia mais;
-- Me tornar um Desenvolvedor de Software
+ - 👨🏾‍💻 Eu sou Maycon Rocha.
+ - 🔭 Atualmente estou trabalhando como QA Tester na NTT DATA Brasil.
+ - 🌱 Estou estudando QA e automações de testes e também estudo as tecnologias FrontEnd.
 
-## Tecnologias 
-- HTML
-- CSS
-- JavaScript
-- React
-- Python
-- Node
-- SQL / Oracle SQL / PostgreSQL
-- Git e GitHub
+## Tecnologias que estou estudando:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+</div>
 
 ## Contato
 
@@ -48,10 +58,6 @@ Me chamo Maycon Rocha, sou um apaixonado por tecnologias, programação e dados.
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MayconRocha21.MayconRocha21&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
 </div>
-
-
-
-
 
 ###
 
