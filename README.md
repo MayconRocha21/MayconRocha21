@@ -15,7 +15,7 @@
 
  - 👨🏾‍💻 Eu sou Maycon Rocha.
  - 🔭 Atualmente estou trabalhando como QA Tester na NTT DATA Brasil.
- - 🌱 Estou estudando QA e automações de testes e também estudo as tecnologias FrontEnd.
+ - 🌱 Estou estudando QA e automações de testes, Python e JavaScript.
 
 ## Tecnologias que estou estudando:
 
