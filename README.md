@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu perfil! <!--<img src="https://leofagundes.s3.amazonaws.com/lf.svg" alt="logo-LF" min-width="200px" max-width="200px" width="200px" align="right">-->
 
-Sou estudante <strong>Backend</strong> e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+Sou estudante <strong>Back-end</strong> e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
 
 <details open>
   <summary><strong>Tecnologias que estou aprendendo</strong></summary>
