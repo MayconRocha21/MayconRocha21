@@ -16,6 +16,7 @@ Sou estudante <strong>FullStack</strong> e apaixonado por aprender coisas novas,
     <div style="display: inline-block">
     <a href="#"><img alt="Icone Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone Python " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px"/></a>
+    <a href="#"><img alt="DJango " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55px"/></a>
     <a href="#"><img alt="Icone Oracle " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone MySQL " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"/></a>
     
