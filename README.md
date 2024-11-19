@@ -11,8 +11,8 @@ Sou estudante <strong>Python</strong> e apaixonado por aprender coisas novas, ac
     <a href="#"><img alt="Icone JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone Python " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="55px"/></a>
-   <!-- <a href="#"><img alt="Icone HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55px"/></a> -->
-   <!-- <a href="#"><img alt="Icone CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55px"/></a> -->
+    <a href="#"><img alt="Icone Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="55px"/></a> 
+   <!-- <a href="#"> <img alt="Icone CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55px"/></a> -->
    <!-- <a href="#"><img alt="Icone React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55px"/></a> -->
 </div>
     <div style="display: inline-block">
