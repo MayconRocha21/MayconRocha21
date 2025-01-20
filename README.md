@@ -11,7 +11,7 @@ Sou estudante de <strong>Programação e QA</strong> e apaixonado por aprender c
     <a href="#"><img alt="Icone JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55px"/></a>
-    <a href="#"><img alt="Icone React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55px"/></a>
+    <a href="#"><img alt="Icone Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="55px"/></a>
      <a href="#"><img alt="Icone Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="55px"/></a>
 </div>
     <div style="display: inline-block">
