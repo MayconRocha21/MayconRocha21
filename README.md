@@ -14,9 +14,9 @@ Sou estudante de <strong>Programação e QA</strong> e apaixonado por aprender c
      <a href="#"><img alt="Icone Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55px"/></a>
 </div>
     <div style="display: inline-block">
-    <a href="#"><img alt="Icone Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55px"/></a>
-    <a href="#"><img alt="Icone Python " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px"/></a>
+   <!-- <a href="#"><img alt="Icone Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55px"/></a>-->
     <a href="#"><img alt="Icone Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="55px"/></a>
+    <a href="#"><img alt="Icone Python " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone SQL " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="55px"/></a> 
     <a href="#"><img alt="Icone Oracle " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone MySQL " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"/></a>
