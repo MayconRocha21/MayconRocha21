@@ -1,7 +1,7 @@
 ### Bem-vindo(a) ao meu perfil!
 
 
-Sou estudante <strong>Front-end</strong> e apaixonado por aprender coisas novas, acredito que devemos aprender cada vez mais e descobrir novas tecnologias que serão capazes de mudar o mundo como conhecemos.
+Sou um entusiasta de <strong>Análise de Dados</strong> e <strong>Desenvolvimento Web</strong>, apaixonado por aprender coisas novas. Acredito que devemos sempre buscar conhecimento e explorar novas tecnologias que têm o potencial de transformar o mundo como o conhecemos.
 
 <details open>
   <summary><strong>Tecnologias e Ferramentas que estou aprendendo:</strong></summary>
@@ -28,6 +28,7 @@ Sou estudante <strong>Front-end</strong> e apaixonado por aprender coisas novas,
    <a href="#"><img alt="Icone Postman " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55px"/></a>
    <a href="#"><img alt="Icone Git " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55px"/></a>
    <a href="#"><img alt="Icone Github " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55px"/></a>
+<!--     <img align="center" alt="Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  -->
   
 
   </div>
