@@ -15,9 +15,10 @@ Sou um entusiasta da <strong>Tecnologia</strong> e <strong>Análise de Dados</st
      <!-- <a href="#"><img alt="Icone React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"width="55px"/></a> -->
      <a href="#"><img alt="Icone Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone VsCode " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55px"/></a>
-    <a href="#"><img alt="Icone Jira " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="55px"/></a>
+    
 </div>
     <div style="display: inline-block">
+   <a href="#"><img alt="Icone Jira " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="55px"/></a>
    <!-- <a href="#"><img alt="Icone Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55px"/></a>-->
    <!-- <a href="#"><img alt="Icone Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="55px"/></a>-->
     <a href="#"><img alt="Icone Python " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55px"/></a>
