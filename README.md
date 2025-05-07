@@ -12,8 +12,9 @@ Sou um entusiasta da <strong>Tecnologia</strong> e <strong>Análise de Dados</st
     <a href="#"><img alt="Icone JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55px"/></a>
-     <a href="#"><img alt="Icone React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="55px"/></a>
-     <a href="#"><img alt="Icone VsCode " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55px"/></a>
+     <!-- <a href="#"><img alt="Icone React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"width="55px"/></a> -->
+     <a href="#"><img alt="Icone Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="55px"/><|a>
+ <a href="#"><img alt="Icone VsCode " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55px"/></a>
     <a href="#"><img alt="Icone Jira " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="55px"/></a>
 </div>
     <div style="display: inline-block">
