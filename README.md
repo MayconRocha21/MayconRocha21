@@ -1,7 +1,7 @@
 ### Bem-vindo(a) ao meu perfil!
 
 
-Sou um entusiasta da <strong>Programação</strong> e <strong>Análise de Dados</strong>, apaixonado por aprender coisas novas. Acredito que devemos sempre buscar conhecimento e explorar novas tecnologias que têm o potencial de transformar o mundo como o conhecemos.
+Atuo como QA e sou estudante FRONT-END, apaixonado por aprender coisas novas. Acredito que devemos sempre buscar conhecimento e explorar novas tecnologias que tem o potencial de transformar o mundo como o conhecemos.
 
 <details open>
   <summary><strong>Tecnologias e Ferramentas que estou aprendendo:</strong></summary>
