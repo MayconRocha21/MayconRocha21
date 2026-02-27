@@ -35,29 +35,3 @@ Atuo como QA e sou estudante FRONT-END, apaixonado por aprender coisas novas. Ac
 
   </div>
 </details>
-
-<details open>
-  <summary><strong>Contato</strong></summary>
-  
-  <br>
-  
- <a href = "mailto:mgr8272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/maycon-rocha-7b8759164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/maycongr/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
- <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>-->
-
-
-  <br><br>
-</details open>
-
-<details open>
-  <summary><strong>Git Status</strong></summary>
-  
-  <br>
-
-  <div align="left" class="custom-border">
-    <img height="181em" src="https://github-readme-stats.vercel.app/api?username=MayconRocha21&show_icons=true&bg_color=0F0F0F&title_color=01A66B&text_color=fff&icon_color=01A66B&border_color=01A66B&hide_rank=true&include_all_commits=true&count_private=true"/>
-    <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconRocha21&card_width&layout=compact&langs_count=7&bg_color=0F0F0F&title_color=01A66B&text_color=fff&icon_color=01A66B&border_color=01A66B&count_private=true"/>
-  </div> 
-</details>
