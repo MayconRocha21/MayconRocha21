@@ -27,7 +27,7 @@ Sou um entusiasta da <strong>Programação</strong> e <strong>Análise de Dados<
 <!--     <a href="#"><img alt="Icone Oracle " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="55px"/></a> -->
 <!--     <a href="#"><img alt="Icone MySQL " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55px"/></a> -->
     <!--<a href="#"><img alt="Icone Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="55px"/></a>-->
-   <a href="#"><img alt="Icone Postman " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55px"/></a>
+  <!-- <a href="#"><img alt="Icone Postman " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55px"/></a>-->
    <a href="#"><img alt="Icone Git " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55px"/></a>
    <a href="#"><img alt="Icone Github " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55px"/></a>
 <!--     <img align="center" alt="Java" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  -->
